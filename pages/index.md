@@ -18,6 +18,7 @@ intro_paragraph: '![dissonance](/assets/img/uploads/Dissonance.png)'
 * Jquery 3.4.1
 * Bootstrap 4.3
 * Azure / asp.NET
+* React
 
 
 
