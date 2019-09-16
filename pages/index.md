@@ -7,7 +7,7 @@ intro_paragraph: '![dissonance](/assets/img/uploads/Dissonance.png)'
 ---
 # My Tools
 
-
+<br/>
 
 ## Web Design
 
@@ -21,6 +21,8 @@ intro_paragraph: '![dissonance](/assets/img/uploads/Dissonance.png)'
 * React
 
 \-
+
+<br/>
 
 ## Programming
 
