@@ -3,9 +3,10 @@ layout: home
 title: Welcome
 permalink: /
 section: home
-intro_paragraph: |-
-  ![wisp](/assets/img/uploads/port-cover.jpg)
+intro_paragraph: |
 
-  ## Canadian Designer, Programmer, Curious Tinkerer.
+
+  ![assets/img/uploads/Dissonance.png]
+  #Canadian Designer, Programmer, Curious Tinkerer.
 ---
 
