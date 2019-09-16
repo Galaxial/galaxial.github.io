@@ -19,4 +19,6 @@ Elliot College of Design is a fictitious school, imagined for the purposes of de
 
 ![](/assets/img/uploads/Homescreen Wireframe.PNG)
 
- Wireframe construction, through multiple drafts refined the eventual layout. I chose to keep the interface as clean as possible to reduce visual clutter and improve accessibility concerns, as well.
+ Wireframe construction, through multiple drafts refined the eventual layout. I chose to keep the interface as clean as possible to reduce visual clutter and improve accessibility concerns, as well. I put a special amount of work into choosing my colour palette so as to best reflect the local geography. The canadian shield boasts both large amounts of exposed rock, and resilient flora. I tried to utilize cool greys for both my content and navigation backgrounds, as well as in my own graphic pieces within the site as well as a cool green accent to mimic the natural surrounding environment while still keeping a minimal, modern website.
+
+![](/assets/img/uploads/Program_Description.PNG)
