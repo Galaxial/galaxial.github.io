@@ -1,15 +1,16 @@
 ---
 layout: contact
-title: Contact
+title: Contact Me
 permalink: /contact
 section: contact
 intro_paragraph: |-
 
-  The contact form on this page uses
-  [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-  submissions, and saves them in your Netlify account where you can optionally
-  set up notifications. Each submission is passed through a spam filter and if
-  flagged, will display a CAPTCHA challenge to the user.
+  Interested in working together, or just have a few questions?
+  
+  Email me at - nzenker9076@conestogac.on.ca, 
+              - nzenker0028@gmail.com
+  
+  Or use our messaging system below
 ---
 
-**Send us a message**
+**Message Me**
