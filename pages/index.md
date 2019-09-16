@@ -5,13 +5,7 @@ permalink: /
 section: home
 intro_paragraph: '![dissonance](/assets/img/uploads/Dissonance.png)'
 ---
-# My Tools
-
-<br/>
-
 ## Web Design
-
-\-
 
 * Javascript/Node.js
 * PHP 7.0
@@ -19,8 +13,6 @@ intro_paragraph: '![dissonance](/assets/img/uploads/Dissonance.png)'
 * Bootstrap 4.3
 * Azure / asp.NET
 * React
-
-\-
 
 <br/>
 
