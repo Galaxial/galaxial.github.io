@@ -6,9 +6,8 @@ permalink: /
 section: home
 intro_paragraph: >
 
-[assets/img/uploads/port-cover.png]
-|
 
+  ![assets/img/uploads/port-cover.png]
 
   #Canadian Designer, Programmer, Curious Tinkerer.
   
